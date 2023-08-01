@@ -1,0 +1,31 @@
+Auditor
+    jiminy.cricket
+Branch-Staff
+    melinda.mouse
+Disbursement-Officer-Checker
+    scrooge.mcduck
+    mort.mouse
+Disbursement-Officer-Maker
+    minnie.mouse
+Project-Manager
+    daisy.duck
+REF_ADMIN
+    glory.bee
+Relationship-Manager
+    daisy.duck
+Supervisor
+    ludwig.vondrake
+    clara.cow
+Underwriter-Checker
+    goofy.goof
+    mickey.mouse
+Underwriter-Maker
+    donald.duck
+    eega.beeva
+Valuator 
+    winnie.thepooh
+    
+Manager-of-role -
+---------------
+clara.cow:  Relationship-Manager
+minnie.mouse: Underwriter-Maker##Relationship-Manager

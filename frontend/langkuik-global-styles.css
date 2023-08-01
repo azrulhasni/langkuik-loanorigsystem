@@ -1,0 +1,36 @@
+[part="input-field"] {
+    
+}
+
+[part="value"] { /*for text input field*/
+    font-size: 11px
+}
+
+[part="summary"] { /*for accordions*/
+    font-size: 11px
+}
+
+[part="drop-label"]{ /*for file drop*/
+    font-size: 11px
+}
+
+
+:host{ /*for tabs*/
+    font-size: 11px
+}
+
+html{ /*table content*/
+    font-size: 11px
+}
+
+[part~="reorder-ghost"] { /*table headers*/
+    font-size: 11px
+}
+
+label {
+    font-size: 11px;
+    align-self: center;
+}
+
+
+
